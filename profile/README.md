@@ -1,12 +1,14 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=AverageSMP)]()<br>
+### 👋 Hi, Ich bin Luca!
+Ich habe diesen Server mit der festen Überzeugung erstellt,
+dass ich die Minecraft-Wirtschaft bewegen kann.
+Deshalb habe ich mich dazu entschlossen, einen SMP zu starten,
+wie es ihn bisher noch nie gab. Zusammen mit Leon und Quiet habe ich diesen Server aufgebaut,
+und wir prägen noch heute die Minecraft-Serverlandschaft.
 
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=4275f5&vCenter=true&repeat=false&width=435&height=80&lines=Geschichte)]()<br>
+### 👋 Du willst mehr über AverageSMP wissen?
+Kommt noch...
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Du hast Ideen?
+Schick sie gerne in den Discord: https://discord.gg/averagesmp
